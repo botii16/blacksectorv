@@ -1,13 +1,12 @@
 ---
-name: Cheat Not Working
-about: Do these things and your cheat will work again!
+name: Issue Fixes
+about: Make sure to read this guide carefully and follow every step in order to make
+  our cheats work the way they suppose to work.
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-Make sure to read this guide carefully and follow every step in order to make our cheats work the way they suppose to work.
 
 Required Guide before using our Loader:
 
